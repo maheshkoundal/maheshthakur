@@ -1,8 +1,23 @@
-# maheshthakur
-👋Hi there, I'm Mahesh! Welcome to my GitHub profile! I'm a Project Manager, data scientist passionate about machine learning, blockchain technology.
-🚀 About Me
-🌱 Currently learning PMP.
-💼 Working at Multiplier Brand Solutions Pvt. Ltd.
-🎓 Graduated from Uttar Pradesh Technical University (UPTU).
-🏆Client wants Transformed a previously manual sales lead distribution process into an automated system. The responsibility for the implementation of the Panasonic and Sales Force integration for (LMS) at the country level with Prism. Its Help Panasonic Team with: Implemented a system that facilitated the conversion of leads into sales in real time, indicating efficiency and responsiveness in the sales process. Successfully automated the sales lead distribution, which contributed to a significant increase in sales. Specifically, Panasonic was able to boost sales by 5% through the implementation of this automated tool..
-📝https://www.linkedin.com/in/mahesh-thakur-711ab515/.
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Welcome to my GitHub profile! I'm a passionate Data Scientist and Project Manager dedicated to turning data into actionable insights and leading projects to successful completion.<br><br>- 🔭 I’m working as Sr. Manager Tech<br>- 📚 I'm currently learning Big Data Analytics in healthcare<br>- ⚡ In my free time I Take online courses or workshops to learn new skills or hobbies</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
